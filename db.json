@@ -1,16 +1,28 @@
 {
-  "posts":[
+  "sections":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "title": "Lichttoren 32, 5611 BJ Eindhoven",
+      "coordinates": {
+        "lat": "51.44049809011271",
+        "lng" : "5.474423967170945"
+      }
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id" : 1,
+      "title": "Jan van Eijckstraat 47, 1077 LH Amsterdam",
+      "coordinates": {
+        "lat": "52.34966151843042",
+        "lng" : "4.874053323250479"
+      }
+    },
+    {
+      "id" : 2,
+      "title": "Burgemeester Houbenstraat 2, 5913 VX Venlo",
+      "coordinates": {
+        "lat": "51.36847562927084",
+        "lng" : "6.180666572741642"
+      }
     }
   ]
 }
