@@ -23,13 +23,86 @@
         "lat": "51.36847562927084",
         "lng" : "6.180666572741642"
       }
-    }
-  ],
-  "posts":[
+    },
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id" : 3,
+      "title": "Bottelroosstraat 3, 9741 JD Groningen",
+      "coordinates": {
+        "lat": "53.237916913358156",
+        "lng" : "6.5532920466285285"
+      }
+    },
+    {
+      "id" : 4,
+      "title": "Brouwerijstraat 1, 7523 XC Enschede",
+      "coordinates": {
+        "lat": "52.23293279115824",
+        "lng" : "6.890031613886256"
+      }
+    },
+    {
+      "id" : 5,
+      "title": "Millinxstraat 69, 3081 PE Rotterdam",
+      "coordinates": {
+        "lat": "51.892316717987626",
+        "lng" : "4.492543476610231"
+      }
+    },
+    {
+      "id" : 6,
+      "title": "Decimalaan 7, 3526 AH Utrecht",
+      "coordinates": {
+        "lat": "52.06256308648124",
+        "lng" : "5.105751227880677"
+      }
+    },
+    {
+      "id" : 7,
+      "title": "Duinroosweg 9, 2597 KJ Den Haag",
+      "coordinates": {
+        "lat": "52.10448361794565",
+        "lng" : "4.302397189064139"
+      }
+    },
+    {
+      "id" : 8,
+      "title": "Willemsplein 1, 6811 KA Arnhem",
+      "coordinates": {
+        "lat": "51.98425388019294",
+        "lng" : "5.9053046472791815"
+      }
+    },
+    {
+      "id" : 9,
+      "title": "Toekanweg 2, 2035 LC Haarlem",
+      "coordinates": {
+        "lat": "52.36865215719697",
+        "lng" : "4.64785307153822"
+      }
+    },
+    {
+      "id" : 10,
+      "title": "Emmastraat 2, 1211 NG Hilversum",
+      "coordinates": {
+        "lat": "52.22177705873262",
+        "lng" : "5.177556842794367"
+      }
+    },
+    {
+      "id" : 11,
+      "title": "Griend 33 07, 8225 SX Lelystad",
+      "coordinates": {
+        "lat": "52.500971770671974",
+        "lng" : "5.488316667111664"
+      }
+    },
+    {
+      "id" : 12,
+      "title": "Keizerstraat 5, 4811 HL Breda",
+      "coordinates": {
+        "lat": "51.58525685384745",
+        "lng" : "4.779803779386873"
+      }
     }
   ]
 }
