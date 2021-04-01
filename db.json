@@ -24,5 +24,12 @@
         "lng" : "6.180666572741642"
       }
     }
+  ],
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
   ]
 }
